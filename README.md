@@ -66,4 +66,4 @@ The dashboard is designed to address key Uber business questions, including:
 
 ## Author
 
-Arya Verma– Data Analyst
+Arya Verma
